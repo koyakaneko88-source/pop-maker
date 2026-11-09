@@ -1,0 +1,5 @@
+# Any address on this site opens the POP maker (avoids "Page not found" when extra text sticks to a shared link)
+[[redirects]]
+  from = "/*"
+  to = "/index.html"
+  status = 200
